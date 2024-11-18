@@ -1,4 +1,4 @@
-# Find the GCD of two numbers
+# EX-04-Find the GCD of two numbers
 ## DATE:
 
 ## AIM:
